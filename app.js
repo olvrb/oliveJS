@@ -631,7 +631,7 @@ client.on("message", async message => {
                 }
             });
         });
-        usedCommand = true;
+        usedCommand = true; //test2
     }
     if (command == "tweet" && message.author == "<@267407075905110016>") {
         message.delet();
@@ -1356,7 +1356,7 @@ client.on("message", async message => {
 				},
 				{
 					name: "money/payday",
-					value: `Get some money everyday\n__Example__: ${config.prefix}payday` //TODO: FIX
+					value: `Get some money everyday\n__Example__: ${config.prefix}payday` 
                 },
                 {
                     name: "xkcd",

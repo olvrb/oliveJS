@@ -1,6 +1,6 @@
 ﻿# oliveJS
 
-## How to install?
+## How to host it yourself?
 ---
 Just copy and paste this:
 
