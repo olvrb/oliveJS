@@ -8,7 +8,7 @@ Just copy and paste this:
 ```git clone https://github.com/olvrb/oliveJS && cd oliveJS && sudo npm install && nodemon -d 1 app.js```
 
 
-# Documentation
+# Shitty Documentation
 
 ### Functions
 ---
