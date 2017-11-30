@@ -1,0 +1,11 @@
+node_modules/
+*.README.md.swo
+*.README.md.swp
+config.json
+Procfile
+*.vscode
+bin/
+obj/
+*.sqlite
+*.sqlite-journal
+*.njsproj

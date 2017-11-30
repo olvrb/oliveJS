@@ -1,0 +1,46 @@
+{
+  "name": "olivejs",
+  "version": "1.0.0",
+  "description": "discord js bot",
+  "main": "app.js",
+  "engines": {
+    "node": "7.7.3"
+  },
+  "dependencies": {
+    "cat-me": "^1.0.3",
+    "cydia-api-node": "^1.0.2",
+    "discord-anti-spam": "^1.1.1",
+    "discord.js": "^11.2.1",
+    "ejs": "2.5.7",
+    "exec": "^0.2.1",
+    "express": "4.16.2",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "figlet": "^1.2.0",
+    "first-image-search-load": "^0.4.0",
+    "giphy-api": "^1.2.7",
+    "google": "^2.1.0",
+    "google-translate-api": "^2.3.0",
+    "got": "^7.1.0",
+    "languagedetect": "^1.1.1",
+    "maycon-cleverbot": "^1.1.0",
+    "nodemon": "1.12.1",
+    "opusscript": "0.0.4",
+    "pastebin-js": "^0.5.1",
+    "prime-number": "^0.2.2",
+    "quick.db": "^2.1.6",
+    "respawn": "^2.5.0",
+    "speedtest-net": "^1.3.1",
+    "system-sleep": "^1.3.6",
+    "twitter": "^1.7.1",
+    "urban-dictionary": "^1.0.6",
+    "weather-js": "^2.0.0",
+    "xkcd-imgs": "^1.0.1",
+    "ytdl-core": "^0.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "oliver boudet",
+  "license": "GPL-3.0"
+}

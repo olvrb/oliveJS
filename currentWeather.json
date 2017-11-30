@@ -1,0 +1,392 @@
+[
+  {
+    "location": {
+      "name": "Stockholm, Sweden",
+      "lat": "59.333",
+      "long": "18.067",
+      "timezone": "1",
+      "alert": "",
+      "degreetype": "C",
+      "imagerelativeurl": "http://blob.weather.microsoft.com/static/weather4/en-us/"
+    },
+    "current": {
+      "temperature": "6",
+      "skycode": "30",
+      "skytext": "Partly Sunny",
+      "date": "2017-11-08",
+      "observationtime": "12:20:00",
+      "observationpoint": "Stockholm, Sweden",
+      "feelslike": "4",
+      "humidity": "76",
+      "winddisplay": "8 km/h South",
+      "day": "Wednesday",
+      "shortday": "Wed",
+      "windspeed": "8 km/h",
+      "imageUrl": "http://blob.weather.microsoft.com/static/weather4/en-us/law/30.gif"
+    },
+    "forecast": [
+      {
+        "low": "0",
+        "high": "7",
+        "skycodeday": "31",
+        "skytextday": "Clear",
+        "date": "2017-11-07",
+        "day": "Tuesday",
+        "shortday": "Tue",
+        "precip": ""
+      },
+      {
+        "low": "4",
+        "high": "6",
+        "skycodeday": "26",
+        "skytextday": "Cloudy",
+        "date": "2017-11-08",
+        "day": "Wednesday",
+        "shortday": "Wed",
+        "precip": "20"
+      },
+      {
+        "low": "4",
+        "high": "7",
+        "skycodeday": "28",
+        "skytextday": "Mostly Cloudy",
+        "date": "2017-11-09",
+        "day": "Thursday",
+        "shortday": "Thu",
+        "precip": "100"
+      },
+      {
+        "low": "1",
+        "high": "7",
+        "skycodeday": "11",
+        "skytextday": "Rain Showers",
+        "date": "2017-11-10",
+        "day": "Friday",
+        "shortday": "Fri",
+        "precip": "90"
+      },
+      {
+        "low": "0",
+        "high": "4",
+        "skycodeday": "30",
+        "skytextday": "Partly Sunny",
+        "date": "2017-11-11",
+        "day": "Saturday",
+        "shortday": "Sat",
+        "precip": "90"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Stockholm County, Sweden",
+      "lat": "59.47",
+      "long": "18.128",
+      "timezone": "1",
+      "alert": "",
+      "degreetype": "C",
+      "imagerelativeurl": "http://blob.weather.microsoft.com/static/weather4/en-us/"
+    },
+    "current": {
+      "temperature": "6",
+      "skycode": "30",
+      "skytext": "Partly Sunny",
+      "date": "2017-11-08",
+      "observationtime": "12:20:00",
+      "observationpoint": "Stockholm County",
+      "feelslike": "4",
+      "humidity": "76",
+      "winddisplay": "8 km/h South",
+      "day": "Wednesday",
+      "shortday": "Wed",
+      "windspeed": "8 km/h",
+      "imageUrl": "http://blob.weather.microsoft.com/static/weather4/en-us/law/30.gif"
+    },
+    "forecast": [
+      {
+        "low": "-1",
+        "high": "7",
+        "skycodeday": "31",
+        "skytextday": "Clear",
+        "date": "2017-11-07",
+        "day": "Tuesday",
+        "shortday": "Tue",
+        "precip": ""
+      },
+      {
+        "low": "4",
+        "high": "5",
+        "skycodeday": "28",
+        "skytextday": "Mostly Cloudy",
+        "date": "2017-11-08",
+        "day": "Wednesday",
+        "shortday": "Wed",
+        "precip": "20"
+      },
+      {
+        "low": "4",
+        "high": "7",
+        "skycodeday": "28",
+        "skytextday": "Mostly Cloudy",
+        "date": "2017-11-09",
+        "day": "Thursday",
+        "shortday": "Thu",
+        "precip": "100"
+      },
+      {
+        "low": "1",
+        "high": "7",
+        "skycodeday": "34",
+        "skytextday": "Mostly Sunny",
+        "date": "2017-11-10",
+        "day": "Friday",
+        "shortday": "Fri",
+        "precip": "90"
+      },
+      {
+        "low": "0",
+        "high": "3",
+        "skycodeday": "30",
+        "skytextday": "Partly Sunny",
+        "date": "2017-11-11",
+        "day": "Saturday",
+        "shortday": "Sat",
+        "precip": "90"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Stockholm, Sweden",
+      "lat": "56.133",
+      "long": "13.417",
+      "timezone": "1",
+      "alert": "",
+      "degreetype": "C",
+      "imagerelativeurl": "http://blob.weather.microsoft.com/static/weather4/en-us/"
+    },
+    "current": {
+      "temperature": "6",
+      "skycode": "26",
+      "skytext": "Cloudy",
+      "date": "2017-11-08",
+      "observationtime": "12:20:00",
+      "observationpoint": "Stockholm, Sweden",
+      "feelslike": "6",
+      "humidity": "100",
+      "winddisplay": "0 km/h",
+      "day": "Wednesday",
+      "shortday": "Wed",
+      "windspeed": "0 km/h",
+      "imageUrl": "http://blob.weather.microsoft.com/static/weather4/en-us/law/26.gif"
+    },
+    "forecast": [
+      {
+        "low": "-2",
+        "high": "8",
+        "skycodeday": "27",
+        "skytextday": "Cloudy",
+        "date": "2017-11-07",
+        "day": "Tuesday",
+        "shortday": "Tue",
+        "precip": ""
+      },
+      {
+        "low": "3",
+        "high": "8",
+        "skycodeday": "26",
+        "skytextday": "Cloudy",
+        "date": "2017-11-08",
+        "day": "Wednesday",
+        "shortday": "Wed",
+        "precip": "50"
+      },
+      {
+        "low": "5",
+        "high": "9",
+        "skycodeday": "30",
+        "skytextday": "Partly Sunny",
+        "date": "2017-11-09",
+        "day": "Thursday",
+        "shortday": "Thu",
+        "precip": "90"
+      },
+      {
+        "low": "3",
+        "high": "8",
+        "skycodeday": "11",
+        "skytextday": "Rain Showers",
+        "date": "2017-11-10",
+        "day": "Friday",
+        "shortday": "Fri",
+        "precip": "100"
+      },
+      {
+        "low": "2",
+        "high": "5",
+        "skycodeday": "9",
+        "skytextday": "Light Rain",
+        "date": "2017-11-11",
+        "day": "Saturday",
+        "shortday": "Sat",
+        "precip": "100"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Stockholm, Sweden",
+      "lat": "61.888",
+      "long": "13.753",
+      "timezone": "1",
+      "alert": "",
+      "degreetype": "C",
+      "imagerelativeurl": "http://blob.weather.microsoft.com/static/weather4/en-us/"
+    },
+    "current": {
+      "temperature": "5",
+      "skycode": "26",
+      "skytext": "Cloudy",
+      "date": "2017-11-08",
+      "observationtime": "12:20:00",
+      "observationpoint": "Stockholm, Sweden",
+      "feelslike": "1",
+      "humidity": "75",
+      "winddisplay": "22 km/h Southwest",
+      "day": "Wednesday",
+      "shortday": "Wed",
+      "windspeed": "22 km/h",
+      "imageUrl": "http://blob.weather.microsoft.com/static/weather4/en-us/law/26.gif"
+    },
+    "forecast": [
+      {
+        "low": "-1",
+        "high": "4",
+        "skycodeday": "27",
+        "skytextday": "Cloudy",
+        "date": "2017-11-07",
+        "day": "Tuesday",
+        "shortday": "Tue",
+        "precip": ""
+      },
+      {
+        "low": "2",
+        "high": "5",
+        "skycodeday": "28",
+        "skytextday": "Mostly Cloudy",
+        "date": "2017-11-08",
+        "day": "Wednesday",
+        "shortday": "Wed",
+        "precip": "20"
+      },
+      {
+        "low": "-2",
+        "high": "5",
+        "skycodeday": "9",
+        "skytextday": "Light Rain",
+        "date": "2017-11-09",
+        "day": "Thursday",
+        "shortday": "Thu",
+        "precip": "90"
+      },
+      {
+        "low": "-4",
+        "high": "1",
+        "skycodeday": "26",
+        "skytextday": "Cloudy",
+        "date": "2017-11-10",
+        "day": "Friday",
+        "shortday": "Fri",
+        "precip": "80"
+      },
+      {
+        "low": "-3",
+        "high": "-1",
+        "skycodeday": "30",
+        "skytextday": "Partly Sunny",
+        "date": "2017-11-11",
+        "day": "Saturday",
+        "shortday": "Sat",
+        "precip": "80"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Stockholm, KY",
+      "lat": "37.255",
+      "long": "-86.133",
+      "timezone": "-6",
+      "alert": "",
+      "degreetype": "C",
+      "imagerelativeurl": "http://blob.weather.microsoft.com/static/weather4/en-us/"
+    },
+    "current": {
+      "temperature": "7",
+      "skycode": "27",
+      "skytext": "Mostly Cloudy",
+      "date": "2017-11-08",
+      "observationtime": "05:50:00",
+      "observationpoint": "Stockholm, KY",
+      "feelslike": "6",
+      "humidity": "87",
+      "winddisplay": "6 km/h Northeast",
+      "day": "Wednesday",
+      "shortday": "Wed",
+      "windspeed": "6 km/h",
+      "imageUrl": "http://blob.weather.microsoft.com/static/weather4/en-us/law/27.gif"
+    },
+    "forecast": [
+      {
+        "low": "6",
+        "high": "11",
+        "skycodeday": "27",
+        "skytextday": "Cloudy",
+        "date": "2017-11-07",
+        "day": "Tuesday",
+        "shortday": "Tue",
+        "precip": ""
+      },
+      {
+        "low": "2",
+        "high": "13",
+        "skycodeday": "30",
+        "skytextday": "Partly Sunny",
+        "date": "2017-11-08",
+        "day": "Wednesday",
+        "shortday": "Wed",
+        "precip": "60"
+      },
+      {
+        "low": "0",
+        "high": "14",
+        "skycodeday": "32",
+        "skytextday": "Sunny",
+        "date": "2017-11-09",
+        "day": "Thursday",
+        "shortday": "Thu",
+        "precip": "0"
+      },
+      {
+        "low": "-2",
+        "high": "6",
+        "skycodeday": "28",
+        "skytextday": "Mostly Cloudy",
+        "date": "2017-11-10",
+        "day": "Friday",
+        "shortday": "Fri",
+        "precip": "0"
+      },
+      {
+        "low": "6",
+        "high": "10",
+        "skycodeday": "28",
+        "skytextday": "Mostly Cloudy",
+        "date": "2017-11-11",
+        "day": "Saturday",
+        "shortday": "Sat",
+        "precip": "30"
+      }
+    ]
+  }
+]
