@@ -1,13 +1,12 @@
 ﻿# oliveJS
+
+## How to install?
 ---
-
-##### How to install?
-
 Just copy and paste this:
 
 ```git clone https://github.com/olvrb/oliveJS && cd oliveJS && sudo npm install && nodemon -d 1 app.js```
 
-
+If you just want this bot on your server, you can add it using [this link.](https://discordapp.com/oauth2/authorize?client_id=374188904309456896&scope=bot&permissions=8)
 # Shitty Documentation
 
 ### Functions
@@ -49,4 +48,8 @@ Just copy and paste this:
     - Arguments
         - string: string to animate word by word.
         - int: how long it waits between each edit.
-        
+
+
+# Disclaimer
+---
+This project is discontinued and will no longer be updated, unless there are some security issues.
